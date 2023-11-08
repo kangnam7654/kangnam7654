@@ -1,5 +1,4 @@
 # Hi I'm Kangnam 👋
-🔭 I’m currently working on Imcloud, researching Virtual Human
 
 
 </br></br>
